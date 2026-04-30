@@ -11,5 +11,6 @@ public class tabuada_de_um_numero {
             int mut = x * n;
             System.out.println("A sua multiplicação é: " + mut);
         }
+        sm.close();
     }
 }
