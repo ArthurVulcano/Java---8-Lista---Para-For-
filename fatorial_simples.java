@@ -12,6 +12,7 @@ public class fatorial_simples {
             fat *= i;
             System.out.println("Seu fatorial é: "  + fat);
         }
+        sm.close();
 
         }
     }
