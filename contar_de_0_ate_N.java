@@ -10,5 +10,6 @@ public class contar_de_0_ate_N {
         for (int x = 0; x <= n; x++){
             System.out.println("Os numeros são: " + x);
         }
+        sm.close();
     }
 }
