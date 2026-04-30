@@ -12,5 +12,6 @@ public class soma_de_1_ate_N {
             soma+=x;
             System.out.println("A soma é de : " + soma);
         }
+        sm.close();
     }
 }
